@@ -3,4 +3,4 @@ layout: page
 title: About
 ---
 
-Something about me.
+蒟蒻CTFer | CUIT驾校在读 | 逆向苦手
