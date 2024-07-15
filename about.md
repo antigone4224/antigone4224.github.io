@@ -3,4 +3,6 @@ layout: page
 title: About
 ---
 
-蒟蒻CTFer CUIT驾校在读 逆向苦手
+
+
+我是Antigone,CUIT区块链专业在读，在努力学习pwn和blockchain。
