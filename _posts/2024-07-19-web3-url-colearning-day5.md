@@ -1,12 +1,8 @@
 ---
 layout: post
 title: web3-url-colearning-day5
+date: 2024-07-19 16:14 +0800
 ---
-
-
-
-
-
 在群组中发送地址，得到了1000测试ETH
 
 可以拿来在ETH Storage上传文件
