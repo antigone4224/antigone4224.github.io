@@ -3,9 +3,7 @@ layout: post
 title: web3-url-colearning-day6
 date: 2024-07-20 18:49 +0800
 ---
-今天学习一下Ethfs
-
-[Upload your file/folder with ethfs-cli | EthStorage](https://docs.ethstorage.io/dapp-developer-guide/tutorials/upload-your-file-folder-with-ethfs-cli)
+今天学习一下[Ethfs](https://docs.ethstorage.io/dapp-developer-guide/tutorials/upload-your-file-folder-with-ethfs-cli)
 
 安装Ethfs-cli
 
